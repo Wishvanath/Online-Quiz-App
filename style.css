@@ -1,0 +1,14 @@
+body{
+    background-color:#c7d3e9;
+}
+input[type="file"]{
+    
+}
+button [type="submit"]{
+    float: right;
+    background-color: red;
+}
+.btn-primary{
+    float: right;
+    
+}
